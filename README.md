@@ -1,2 +1,5 @@
 # ethics-api
 Moral Cube API
+This is a concept I've been working on for over a year, it is an attempt to provide a semantic space for moral decisions, to give greater meaning, and visually compare moral decisions across three axis, the focus, or motivation, will or ends. The means, sacrifice, or opportunity cost. And, the Character of the individual using it.
+This concept is being used as a part of my Masters Research, and hopefully if accepted PhD research, to model ethical decisions, and to compare and contrast moral scenarios across the major Large Language Models as a type of Moral Benchmarking, but eventually to have a space to enable individuals to reflect on similar Moral Scenarios (and their own moral decisions) providing insight into similarities and differences between LLMs, and humans (from different countries, ages, religions etc).
+This is a work in progress with more updates to come, if you would like to help build this project you can reach out by sending an email to themoralcube@gmail.com.
